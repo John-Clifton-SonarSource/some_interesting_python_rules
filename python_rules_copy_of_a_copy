@@ -12,6 +12,7 @@ def update_and_show_counter(counter):
 
     counter =+ 8
     print(counter)
+    print("random debug printout")
 
 
 counter = 10
